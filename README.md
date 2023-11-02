@@ -8,7 +8,7 @@
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ito-ryo-50a&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20xxxxxxxxxx)](https://github.com/ito-ryo-50a)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ito-ryo-50a)](https://github.com/ito-ryo-50a)
 
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
 [![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
