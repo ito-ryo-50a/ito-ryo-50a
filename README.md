@@ -1,4 +1,4 @@
-### Hi there 👋
+<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ito-ryo-50a&theme=2077)
 
