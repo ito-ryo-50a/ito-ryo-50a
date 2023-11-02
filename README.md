@@ -2,6 +2,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ito-ryo-50a&theme=2077)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=xxxxxxxxxx&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+
 <!--
 **ito-ryo-50a/ito-ryo-50a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
