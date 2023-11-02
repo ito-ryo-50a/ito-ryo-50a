@@ -20,10 +20,8 @@
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ito-ryo-50a&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="left">
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ito-ryo-50a)](https://github.com/ito-ryo-50a)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yitengliang229?style=social)](https://twitter.com/yitengliang229)
-</p>p
 
 [![github-chart](https://github-chart.vercel.app/api?user=ito-ryo-50a)](https://github.com/ito-ryo-50a/github-chart)
 
