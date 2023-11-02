@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ito-ryo-50a&theme=2077)
+
 <!--
 **ito-ryo-50a/ito-ryo-50a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
