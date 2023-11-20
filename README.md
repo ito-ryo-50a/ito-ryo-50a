@@ -1,12 +1,8 @@
-<img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%">
-
 # Hi, there!! This is My Profile!
 
 ## Status
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ito-ryo-50a&theme=2077)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ito-ryo-50a&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 ## My Skill (Programming languages,FrameWork and Tools)
 
